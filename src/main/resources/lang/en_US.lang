@@ -1,0 +1,5 @@
+commands.exception.wrongargumentlenth=Wrong argument lenth! Expecting 2 or 3
+commands.exception.argumentnotinteger=Argument is not integer!
+commands.exception.argumentisnotvalid=Argument is Invalid
+commands.usage.clickinv=/%1$s <slotID> <key> [external]\nkey：([§nS§rhift|Double§nC§rlick|§nD§rrag]?[§nL§reft|§nR§right])|[1-9]\nExamples：/%1$s external 36 SL would perform Shift+click on the 36th slot of external container；\n/%1$s 1 5 would press 5 with mouse cursor focusing on the 1st slot of container of yourself.//The 1st slot of container of youself is up left slot of your 2*2 crafting area, pressing 5 would swap the 5th slot of hotbar with the slot your mouse cursor is on.
+commands.usage.clickworld=/%1$s [L|R] [<x> <y> <z> [<facing> [<filter> [<metadata>]]]] Note: If there is no coordinate, you click on nothing. Use '- - -' for <x> <y> <z> to click on where you look at.

@@ -1,0 +1,12 @@
+[
+  {
+    "modid": "yes-commander",
+    "name": "Yes Commander",
+    "description": "Control player with commands.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": [
+      "reserveword"
+    ]
+  }
+]

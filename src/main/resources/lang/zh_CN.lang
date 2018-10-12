@@ -1,0 +1,5 @@
+commands.exception.wrongargumentlenth=参数数量不匹配！应该有2至3个参数
+commands.exception.argumentnotinteger=参数不是整数！
+commands.exception.argumentisnotvalid=参数无效
+commands.usage.clickinv=/%1$s <slotID> <key> [external]\nkey：([§nS§rhift|Double§nC§rlick|§nD§rrag]?[§nL§reft|§nR§right])|[1-9]\n示例：/%1$s external 36 SL 代表对打开的容器第36个槽位Shift+单击；\n/%1$s 1 5 代表对自己身上的第1个槽位按下5键//自己身上第1个槽位是2*2合成栏的左上角槽位，按下5键会把快捷栏第5个槽位和鼠标指针指向的槽位（在这里就是2*2合成栏的左上角）互换。
+commands.usage.clickworld=/%1$s [L|R] [<x> <y> <z> [<facing> [<filter> [<metadata>]]]] 注意：如果没有坐标就会执行“空点击”（即不点击任何方块），如果坐标为“- - -”会点击视线所指的位置
